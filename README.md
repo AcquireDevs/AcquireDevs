@@ -9,7 +9,8 @@
 
 
 
-<hr>
+---
+
 ## 🎓 my repositories
 
 |https://github.com/AcquireDevs?tab=repositories|
