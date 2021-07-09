@@ -1,12 +1,12 @@
 ![img not valid](img1.jpg)
 
-## 🚀 ABOUT ME
+# 🚀 ABOUT ME
 ---
-> ***Hi i am acquiredev and i love to do programming and want to give this<br> special gift to the whole world .I mainly do web development and app <br>development .*** 
+>***Hi i am acquiredev and i love to do programming and want to give this<br> special gift to the whole world .I mainly do web development and app <br>development .*** 
 <br>
 ---
 
-## 🎓 my repositories
+# 🎓 my repositories
 
 |https://github.com/AcquireDevs?tab=repositories|
 |---|
@@ -20,7 +20,7 @@
 
 
 ---
-### 🛠️**TOOLS** 
+# 🛠️**TOOLS** 
 --- 
 |programming tools|
 |--|
